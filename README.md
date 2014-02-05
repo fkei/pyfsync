@@ -3,6 +3,9 @@ pyfsync
 
 Synchronize folders between specific
 
+# State: Alpha
+
+
 
 # Memo
 
